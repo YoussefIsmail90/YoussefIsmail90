@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Machine Learning & React.JS**
+- 🌱 I’m currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
