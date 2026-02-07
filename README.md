@@ -1,217 +1,239 @@
-<!-- Animated Header with Premium Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Joe&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer&descAlignY=52&descSize=22&descColor=ffffff" />
-
-<!-- Typing SVG with Full Stack Focus -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%40+RobinReach;Building+Scalable+Full+Stack+Solutions;React+%7C+Next.js+%7C+Node.js+%7C+Express;Turning+Ideas+Into+Production+Apps" alt="Typing SVG" />
-</p>
-
-<!-- Social Badges Row -->
-<p align="center">
-  <a href="https://robinreach.com/en/about">
-    <img src="https://img.shields.io/badge/🏢_RobinReach-Software_Engineer-667eea?style=for-the-badge&labelColor=1a1a2e" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YoussefIsmail90&label=Profile%20Views&color=764ba2&style=for-the-badge" />
-</p>
-
----
-
-<!-- About Section with Premium Styling -->
 <div align="center">
 
-## ⚡ About Me
+<!-- Sleek Minimal Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1&section=header" width="100%"/>
+
+<br/>
+
+# Hey, I'm Joe 👋
+
+### `Full Stack Software Engineer` @ [RobinReach](https://robinreach.com/en/about)
+
+<br/>
+
+<!-- Animated Role Badge -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=Building+end-to-end+web+solutions;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript" alt="Typing SVG" />
+
+<br/>
+
+<!-- Minimal Social Row -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-ismail-9788a9192/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Youssef_Ismail1/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/youssefismail20)
+[![RobinReach](https://img.shields.io/badge/-RobinReach-8B5CF6?style=flat&logo=google-chrome&logoColor=white)](https://robinreach.com/en/about)
 
 </div>
 
-<table align="center">
-<tr>
-<td>
+<br/>
 
-```typescript
+---
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 What I Do
+
+I architect and build **production-ready web applications** from concept to deployment. Currently crafting innovative solutions at **RobinReach**.
+
+```javascript
 const joe = {
-    role: "Full Stack Software Engineer",
-    company: "RobinReach",
-    location: "Building the future of tech",
-    
-    expertise: {
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
-        database: ["MongoDB", "PostgreSQL", "Firebase", "Prisma"],
-        devOps: ["Docker", "AWS", "Vercel", "CI/CD"]
-    },
-    
-    currentFocus: "Building scalable web applications",
-    passion: "Creating seamless user experiences with robust backends"
+  code: ["TypeScript", "JavaScript", "Python"],
+  
+  frontend: {
+    frameworks: ["React", "Next.js"],
+    styling: ["Tailwind CSS", "Styled Components"],
+    state: ["Redux", "Zustand", "React Query"]
+  },
+  
+  backend: {
+    runtime: ["Node.js", "Bun"],
+    frameworks: ["Express", "Fastify", "NestJS"],
+    api: ["REST", "GraphQL", "tRPC"]
+  },
+  
+  database: ["PostgreSQL", "MongoDB", "Redis"],
+  
+  cloud: ["AWS", "Vercel", "Docker"],
+  
+  currentlyBuilding: "Something awesome @ RobinReach"
 };
 ```
 
 </td>
+<td width="50%" valign="top">
+
+### ⚡ Quick Facts
+
+- 🏢 **Software Engineer** at [RobinReach](https://robinreach.com/en/about)
+- 🔭 Building scalable full-stack applications
+- 🌱 Always exploring new technologies
+- 💡 Passionate about clean architecture
+- ⚙️ Obsessed with developer experience
+- 🎯 Focus: **Performance & Scalability**
+
+<br/>
+
+### 🧠 Currently Learning
+
+<img src="https://img.shields.io/badge/-System_Design-0D1117?style=flat-square&logo=buffer&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/-Microservices-0D1117?style=flat-square&logo=docker&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/-Cloud_Architecture-0D1117?style=flat-square&logo=amazon-aws&logoColor=58A6FF" />
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-<!-- What Drives Me Section -->
-<div align="center">
-
-## 💎 What Drives Me
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🏗️ End-to-End Solutions
-<sub>From database design to pixel-perfect UIs — I own the full stack.</sub>
-
-</td>
-<td align="center" width="33%">
-
-### ⚙️ Clean Architecture
-<sub>Scalable, maintainable code that stands the test of time.</sub>
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 Performance Obsessed
-<sub>Optimized APIs, lazy loading, and sub-second load times.</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
-<!-- Premium Tech Stack Section -->
+<br/>
+
 <div align="center">
 
-## 🛠️ Technology Arsenal
+### 🛠️ Tech Stack
 
-### Frontend Development
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<br/>
 
-### Backend Development
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### Database & Cloud
-<p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-</p>
-
-### DevOps & Tools
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-</div>
-
----
-
-<!-- GitHub Stats with Premium Theme -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<a href="https://github.com/YoussefIsmail90">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefIsmail90&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" height="180" />
-</a>
-<a href="https://github.com/YoussefIsmail90">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefIsmail90&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" height="180" />
-</a>
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css&theme=dark" alt="Frontend" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-nine-gules.vercel.app/?user=YoussefIsmail90&theme=midnight-purple&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="GitHub Streak" />
+<!-- Backend & Database -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgresql,mongodb,redis&theme=dark" alt="Backend" />
+
+<br/><br/>
+
+<!-- Tools & Cloud -->
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,vscode&theme=dark" alt="Tools" />
+
+<br/><br/>
+
+<!-- Additional -->
+<img src="https://skillicons.dev/icons?i=tailwind,prisma,figma,postman&theme=dark" alt="Additional" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 📈 GitHub Stats
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefIsmail90&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefIsmail90&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969DA&icon_color=8957E5&text_color=24292F" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefIsmail90&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefIsmail90&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969DA&text_color=24292F" height="165" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-nine-gules.vercel.app/?user=YoussefIsmail90&hide_border=true&background=00000000&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=6E7681" />
+  <img src="https://github-readme-streak-stats-nine-gules.vercel.app/?user=YoussefIsmail90&hide_border=true&background=ffffff&stroke=8957E5&ring=8957E5&fire=F59E0B&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=0969DA&dates=57606A" alt="GitHub Streak" />
+</picture>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefIsmail90&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YoussefIsmail90&bg_color=00000000&color=58A6FF&line=8B5CF6&point=F59E0B&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefIsmail90&bg_color=ffffff&color=0969DA&line=8957E5&point=F59E0B&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+</picture>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- Currently Working At Section -->
+<br/>
+
 <div align="center">
 
-## 🏢 Currently Building At
+### �️ Featured Projects
 
-<a href="https://robinreach.com/en/about">
-  <img src="https://img.shields.io/badge/RobinReach-Visit_Website-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<br/>
+
+<a href="#">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YoussefIsmail90&repo=YoussefIsmail90&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9" />
 </a>
 
-<br/><br/>
+<br/>
 
-<sub>Crafting innovative solutions and pushing the boundaries of what's possible on the web.</sub>
+<sub>*More projects pinned below ↓*</sub>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- Connect Section with Premium Pills -->
+<br/>
+
 <div align="center">
 
-## 🌐 Let's Connect
+### 💬 Philosophy
+
+<br/>
+
+> *"Simplicity is the ultimate sophistication."*
+> 
+> — Leonardo da Vinci
+
+<br/>
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                    Clean Code  •  Ship Fast  •  Iterate                    
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<br/>
 
 <a href="https://www.linkedin.com/in/youssef-ismail-9788a9192/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.kaggle.com/youssefismail20">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Youssef_Ismail1/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+&nbsp;&nbsp;
+<a href="https://robinreach.com/en/about">
+  <img src="https://img.shields.io/badge/RobinReach-About_Me-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open_To-Collaborations_&_Opportunities-764ba2?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://komarev.com/ghpvc/?username=YoussefIsmail90&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+
+<br/><br/>
+
+<sub>Built with ☕ and 💜 by Joe</sub>
 
 </div>
 
 <br/>
 
-<!-- Quote Section -->
-<div align="center">
-  
-> *"The best code is no code at all. Every new line is a liability."* — Jeff Atwood
-
-</div>
-
-<br/>
-
-<!-- Premium Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" />
-
-<!-- Snake Animation (Optional - uncomment if you have the action set up) -->
-<!-- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefIsmail90/YoussefIsmail90/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefIsmail90/YoussefIsmail90/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YoussefIsmail90/YoussefIsmail90/output/github-contribution-grid-snake.svg">
-</picture>
--->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1&section=footer" width="100%"/>
