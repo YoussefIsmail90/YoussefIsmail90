@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=500&lines=Building+robust+backend+systems;Exploring+Machine+Learning;Crafting+seamless+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=500&lines=Building+robust+backend+systems;Crafting+seamless+experiences;Full+Stack+Development" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,8 +20,6 @@
 <img src="https://img.shields.io/badge/Role-Software%20Engineer-06B6D4?style=for-the-badge&labelColor=1e293b" />
 
 Building robust backend systems and ensuring everything runs smoothly behind the scenes. I keep the infrastructure solid so you never have to think about it.
-
-🌱 Currently diving deep into **Machine Learning** and **Neural Networks**
 
 </td>
 </tr>
@@ -47,7 +45,7 @@ Clean code, solid architecture, and systems that just work.
 <td align="center" width="33%">
 
 ### 🚀 Continuous Growth
-Always learning, always improving. Currently exploring ML & AI.
+Always learning, always improving.
 
 </td>
 <td align="center" width="33%">
@@ -97,12 +95,16 @@ Solutions that solve real problems, not just technical checkboxes.
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=youssefismail90&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefismail90&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4" height="180" />
+<a href="https://github.com/youssefismail90">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=youssefismail90&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4" height="180" />
+</a>
+<a href="https://github.com/youssefismail90">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=youssefismail90&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4" height="180" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefismail90&theme=algolia&hide_border=true&background=0d1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" />
+<img src="https://streak-stats.demolab.com/?user=youssefismail90&theme=algolia&hide_border=true&background=0d1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" />
 
 </div>
 
