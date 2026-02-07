@@ -1,85 +1,135 @@
-<h1 align="center">Hi 👋, I'm Youssef Mohamed Ali Ismail</h1>
-<h3 align="center">Software Engineer </h3>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Youssef%20Mohamed%20Ali%20Ismail&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" />
 
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssefismail90&label=Profile%20views&color=0e75b6&style=flat" alt="youssefismail90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=500&lines=Building+robust+backend+systems;Exploring+Machine+Learning;Crafting+seamless+experiences" alt="Typing SVG" />
 </p>
 
+---
+
+<!-- About Card Section -->
+<div align="center">
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/Role-Software%20Engineer-06B6D4?style=for-the-badge&labelColor=1e293b" />
+
+Building robust backend systems and ensuring everything runs smoothly behind the scenes. I keep the infrastructure solid so you never have to think about it.
+
+🌱 Currently diving deep into **Machine Learning** and **Neural Networks**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- What I Believe In -->
+<div align="center">
+
+## 💡 What I Believe In
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎯 Quality First
+Clean code, solid architecture, and systems that just work.
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Continuous Growth
+Always learning, always improving. Currently exploring ML & AI.
+
+</td>
+<td align="center" width="33%">
+
+### 🤝 User-Centric
+Solutions that solve real problems, not just technical checkboxes.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Tech Stack with Pills -->
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=youssefismail90&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefismail90&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4" height="180" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefismail90&theme=algolia&hide_border=true&background=0d1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" />
+
+</div>
+
+---
+
+<!-- Connect Section with Clean Pills -->
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/youssef-ismail-9788a9192/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/youssefismail20">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Youssef_Ismail1/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- Profile Views & Footer -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=youssefismail90&theme=onedark" alt="youssefismail90" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=youssefismail90&label=Profile%20Views&color=06B6D4&style=flat-square" />
 </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/youssef-ismail-9788a9192/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef ismail" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/youssefismail20" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youssefismail20" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/Youssef_Ismail1/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="youssef mohamed" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefismail90&show_icons=true&locale=en&layout=compact" alt="youssefismail90" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefismail90&show_icons=true&locale=en" alt="youssefismail90" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefismail90&" alt="youssefismail90" /></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" />
