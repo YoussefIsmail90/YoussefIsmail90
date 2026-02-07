@@ -223,19 +223,23 @@ const joe: Developer = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🏆 TROPHIES & ACHIEVEMENTS  
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
+## ⚡ Quick Stats
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YoussefIsmail90&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
-
-</div>
+<table>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Lives-Building_Great_Products-06B6D4?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Loves-Clean_Architecture-F59E0B?style=for-the-badge&labelColor=0D1117"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -291,20 +295,21 @@ const joe: Developer = {
 
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   "Any fool can write code that a computer can understand.              │
-│    Good programmers write code that humans can understand."             │
-│                                                                         │
-│                                          — Martin Fowler                │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<a href="https://robinreach.com/en/about">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Stay%20hungry%2C%20stay%20foolish.&author=Steve%20Jobs" alt="Quote"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=20&lines=Clean+Code+%E2%80%A2+Ship+Fast+%E2%80%A2+Iterate+%E2%80%A2+Repeat" />
+<table>
+<tr>
+<td align="center">
+  
+🎯 **Ship Fast** · 🧹 **Stay Clean** · 🔄 **Iterate Always** · 🚀 **Never Stop Learning**
+
+</td>
+</tr>
+</table>
 
 </div>
 
