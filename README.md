@@ -95,16 +95,16 @@ Solutions that solve real problems, not just technical checkboxes.
 
 ## 📊 GitHub Analytics
 
-<a href="https://github.com/youssefismail90">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=youssefismail90&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4" height="180" />
+<a href="https://github.com/YoussefIsmail90">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YoussefIsmail90&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4" height="180" />
 </a>
-<a href="https://github.com/youssefismail90">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=youssefismail90&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4" height="180" />
+<a href="https://github.com/YoussefIsmail90">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YoussefIsmail90&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4" height="180" />
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=youssefismail90&theme=algolia&hide_border=true&background=0d1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" />
+<img src="https://streak-stats.demolab.com/?user=YoussefIsmail90&theme=algolia&hide_border=true&background=0d1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" />
 
 </div>
 
@@ -131,7 +131,7 @@ Solutions that solve real problems, not just technical checkboxes.
 
 <!-- Profile Views & Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssefismail90&label=Profile%20Views&color=06B6D4&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=YoussefIsmail90&label=Profile%20Views&color=06B6D4&style=flat-square" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" />
