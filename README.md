@@ -96,15 +96,15 @@ Solutions that solve real problems, not just technical checkboxes.
 ## 📊 GitHub Analytics
 
 <a href="https://github.com/YoussefIsmail90">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefIsmail90&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YoussefIsmail90&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 </a>
 <a href="https://github.com/YoussefIsmail90">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefIsmail90&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=06B6D4" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefIsmail90&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=YoussefIsmail90&theme=algolia&hide_border=true&background=0d1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" />
+<img src="https://github-readme-streak-stats-nine-gules.vercel.app/?user=YoussefIsmail90&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
