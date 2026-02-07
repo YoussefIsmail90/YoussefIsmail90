@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- 3D Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=150&section=header&text=&fontSize=0" width="100%"/>
+<!-- Premium Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=180&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
 
 <!-- Glowing Name with Custom SVG -->
 <a href="https://robinreach.com/en/about">
